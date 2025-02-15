@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: pacbikes_staging_snapshot
+    database: postgres
+    schema: pacbikes_staging
+    tables:
+      - name: product
