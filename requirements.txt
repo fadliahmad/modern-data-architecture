@@ -1,9 +1,0 @@
-luigi
-sentry-sdk
-pandas
-requests
-sqlalchemy
-psycopg2-binary
-pangres
-python-dotenv
-dbt-core
