@@ -130,3 +130,6 @@ Located in `setup/airflow/variables_and_connections/`:
 
 <!-- ## Project Flow and Explanation 
  -->
+## Architecture 
+
+<img src="img/architecture.png"> 
